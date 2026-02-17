@@ -1,4 +1,3 @@
-Initial commit - package.json avec dépendances Next.js + Supabase
 {
   "name": "axiom-talents-mvp",
   "version": "0.1.0",
