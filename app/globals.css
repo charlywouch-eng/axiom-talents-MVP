@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #0F172A;      /* bleu nuit */
+  --accent: #F97316;       /* orange corporate */
+  --accent-dark: #D97706;  /* doré */
+  --text: #F1F5F9;
+  --text-muted: #94A3B8;
+}
+
+body {
+  background-color: var(--primary);
+  color: var(--text);
+}
